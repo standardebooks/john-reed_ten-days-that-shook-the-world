@@ -34,3 +34,20 @@ figcaption{
 	font-size: .75em;
 	font-style: italic;
 }
+
+.pass{
+	text-align: left;
+}
+
+.pass header{
+	display: inline-block;
+	text-align: center;
+}
+
+.pass header + p{
+	text-align: center;
+}
+
+footer{
+	text-align: right;
+}
