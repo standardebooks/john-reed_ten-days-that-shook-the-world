@@ -1,7 +1,8 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-#political-parties ol li{
+#political-parties ol{
+	padding-left: 0;
 	list-style: none; /* We can't use built-in list numbering because the sequence is: 1, 2, 2A, etc. */
 }
 
