@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Ten Days That Shook the World</dc:title>
 		<meta property="file-as" refines="#title">Ten Days That Shook the World</meta>
 		<dc:subject id="subject-1">Soviet Union -- History -- Revolution, 1917-1921</dc:subject>
@@ -35,9 +35,7 @@
 		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/3076</meta>
 		<meta property="se:subject">TAG</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description"> LONGDESCRIPTION </meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3076</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/009630124</dc:source>

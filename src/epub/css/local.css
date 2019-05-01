@@ -48,6 +48,13 @@ figcaption{
 	font-style: italic;
 }
 
+.order{
+	margin: 1em 0;
+	text-align: center;
+	text-indent: 0;
+	font-variant: small-caps;
+}
+
 .pass{
 	text-align: left;
 }
@@ -70,4 +77,47 @@ blockquote header{
 	font-variant: small-caps;
 	margin-bottom: 1em;
 	text-align: center;
+}
+
+blockquote[epub|type~="z3998:letter"] header{
+	font-variant: normal;
+	margin-bottom: 0;
+	text-align: left;
+}
+
+blockquote[epub|type~="z3998:letter"] header p,
+blockquote[epub|type~="z3998:letter"] header + p{
+	text-indent: 0;
+}
+
+.memorial ul{
+	list-style: none;
+	padding: 0;
+}
+
+.memorial blockquote{
+	font-style: italic;
+}
+
+[epub|type~="z3998:verse"] p{
+	text-align: left;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:verse"] p > span{
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+
+[epub|type~="z3998:verse"] p > span + br{
+	display: none;
+}
+
+[epub|type~="z3998:verse"] p + p{
+	margin-top: 1em;
+}
+
+[epub|type~="z3998:verse"] + p{
+	text-indent: 0;
 }
