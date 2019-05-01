@@ -65,3 +65,9 @@ footer{
 	margin-top: 1em;
 	text-align: right;
 }
+
+blockquote header{
+	font-variant: small-caps;
+	margin-bottom: 1em;
+	text-align: center;
+}
