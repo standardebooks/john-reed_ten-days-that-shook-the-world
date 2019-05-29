@@ -19,6 +19,15 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
+.warning{
+	margin: 1em;
+}
+
+.warning p{
+	text-align: center;
+	text-indent: 0;
+}
+
 figure.full-page{
 	margin: 0;
 	max-height: 100%;
@@ -48,6 +57,41 @@ figcaption{
 	font-style: italic;
 }
 
+
+table{
+	border-collapse: collapse;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table caption{
+	margin-bottom: 1em;
+	font-style: italic;
+}
+
+td{
+	border-width: 1px;
+	border-style: solid;
+	padding: .5em;
+	vertical-align: top;
+	font-variant-numeric: tabular-nums;
+}
+
+table tbody td + td{
+	text-align: right;
+}
+
+table.cost tbody td:first-child + td{
+	text-align: center;
+}
+
+thead td{
+	text-align: center;
+	font-variant: small-caps;
+}
+
 .order{
 	margin: 1em 0;
 	text-align: center;
@@ -75,8 +119,12 @@ footer{
 
 blockquote header{
 	font-variant: small-caps;
-	margin-bottom: 1em;
+	margin: 1em 0;
 	text-align: center;
+}
+
+blockquote header strong{
+	text-transform: uppercase;
 }
 
 blockquote[epub|type~="z3998:letter"] header{

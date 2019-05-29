@@ -39,7 +39,6 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3076</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/009630124</dc:source>
-		<meta property="se:production-notes">The "appendix" has been relisted as "endnotes".</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Ten_Days_That_Shook_the_World</meta>
