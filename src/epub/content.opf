@@ -33,7 +33,7 @@
 		<dc:subject id="subject-2">Communism -- Soviet Union</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/3076</meta>
 		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/3076</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Nonfiction</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description"> LONGDESCRIPTION </meta>
 		<dc:language>en-GB</dc:language>
@@ -49,6 +49,14 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/John_Reed_(journalist)</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n81082936</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
+		<dc:contributor id="author-of-introduction">Vladimir Lenin</dc:contributor>
+		<meta property="file-as" refines="#author-of-introduction">Lenin, Vladimir</meta>
+		<meta property="se:name.person.full-name" refines="#author-of-introduction">Vladimir Ilyich Ulyanov</meta>
+		<meta property="alternate-script" refines="#author-of-introduction">Влади́мир Ильи́ч Ленин</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author-of-introduction">https://en.wikipedia.org/wiki/Vladimir_Lenin</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author-of-introduction">https://id.loc.gov/authorities/names/n80067085</meta>
+		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">aui</meta>
 		<dc:contributor id="artist">COVERARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVERARTISTWIKILINK</meta>
