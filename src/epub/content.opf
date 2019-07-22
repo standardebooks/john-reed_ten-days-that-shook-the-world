@@ -31,8 +31,10 @@
 		<meta property="file-as" refines="#title">Ten Days That Shook the World</meta>
 		<dc:subject id="subject-1">Soviet Union -- History -- Revolution, 1917-1921</dc:subject>
 		<dc:subject id="subject-2">Communism -- Soviet Union</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/3076</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/3076</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85125871</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85029128</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description"> LONGDESCRIPTION </meta>
