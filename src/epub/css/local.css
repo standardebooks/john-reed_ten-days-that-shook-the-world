@@ -111,6 +111,10 @@ thead td{
 	text-align: center;
 }
 
+header p + p{
+	text-indent: 0;
+}
+
 footer{
 	margin-top: 1em;
 	text-align: right;
