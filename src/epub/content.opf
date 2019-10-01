@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/john-reed/ten-days-that-shook-the-world</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2019-10-01T23:17:53Z</dc:date>
+		<meta property="dcterms:modified">2019-10-01T23:17:53Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -36,15 +36,16 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85029128</meta>
 		<meta property="se:subject">Nonfiction</meta>
-		<dc:description id="description">Journalist John Reed gives a first-hand account of Russia’s 1917 October Revolution.</dc:description>
+		<dc:description id="description">Journalist John Reed gives a first-hand account of Russia’s 1917 October Revolution, which lead to the formation of the Soviet Union.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Description&lt;/p&gt;
+			&lt;p&gt;In 1917 John Reed, a journalist and socialist, witnessed first-hand the 1917 Russian October Revolution, in which the Bolsheviks seized power and began forming the Soviet Union. &lt;i&gt;Ten Days that Shook the World&lt;/i&gt; is his account of the revolution, including on-the-ground descriptions of the days up to those portentious events.&lt;/p&gt;
+			&lt;p&gt;The book received a mixed reception. Some reviewers found it a powerful account of the events, one of the few available in English. Others noted Reed’s bias as an established Socialist writer. In any case, the book was hugely influential: this edition boasts a preface by Lenin, John Reed was buried in Moscow in a site reserved for Soviet leadership, and some Soviet couples even went so far as to name their children “Johnreed.” In 1999 New York University placed &lt;i&gt;Ten Days that Shook the World&lt;/i&gt; 7th in their “Top 100 Works of Journalism” list.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3076</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/009630124</dc:source>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:word-count">121531</meta>
+		<meta property="se:reading-ease.flesch">52.7</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Ten_Days_That_Shook_the_World</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-reed_ten-days-that-shook-the-world</meta>
 		<dc:creator id="author">John Reed</dc:creator>
