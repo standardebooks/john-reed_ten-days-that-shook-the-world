@@ -29,6 +29,7 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Ten Days That Shook the World</dc:title>
 		<meta property="file-as" refines="#title">Ten Days That Shook the World</meta>
+		<meta property="se:alternate-title" refines="#title">10 Days that Shook the World</meta>
 		<dc:subject id="subject-1">Soviet Union -- History -- Revolution, 1917-1921</dc:subject>
 		<dc:subject id="subject-2">Communism -- Soviet Union</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
