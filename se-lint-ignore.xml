@@ -6,14 +6,4 @@
 			<reason>Matched text is not dialog.</reason>
 		</ignore>
 	</file>
-	<file path="appendix-2.xhtml">
-		<ignore>
-			<code>t-007</code>
-			<reason>Text following ampersands is not an abbreviation so no-break spaces are not needed.</reason>
-		</ignore>
-		<ignore>
-			<code>t-008</code>
-			<reason>Text following ampersands is not an abbreviation so no-break spaces are not needed.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
