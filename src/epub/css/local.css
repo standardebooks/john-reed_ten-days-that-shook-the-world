@@ -95,7 +95,7 @@ thead td{
 }
 
 .pass{
-	text-align: left;
+	text-align: initial;
 }
 
 .pass header{
@@ -129,7 +129,7 @@ blockquote header strong{
 blockquote[epub|type~="z3998:letter"] header{
 	font-variant: normal;
 	margin-bottom: 0;
-	text-align: left;
+	text-align: initial;
 }
 
 blockquote[epub|type~="z3998:letter"] header p,
@@ -147,7 +147,7 @@ blockquote[epub|type~="z3998:letter"] header + p{
 }
 
 [epub|type~="z3998:verse"] p{
-	text-align: left;
+	text-align: initial;
 	text-indent: 0;
 }
 
