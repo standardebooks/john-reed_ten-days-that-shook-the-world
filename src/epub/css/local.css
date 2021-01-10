@@ -53,6 +53,11 @@ figcaption{
 	margin: 1em;
 }
 
+figcaption i,
+figcaption em{
+	font-style: normal;
+}
+
 table{
 	border-collapse: collapse;
 	margin-top: 1em;
