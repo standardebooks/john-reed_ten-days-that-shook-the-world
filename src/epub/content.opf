@@ -45,8 +45,8 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3076</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/009630124</dc:source>
-		<meta property="se:word-count">121531</meta>
-		<meta property="se:reading-ease.flesch">52.7</meta>
+		<meta property="se:word-count">121530</meta>
+		<meta property="se:reading-ease.flesch">52.8</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Ten_Days_That_Shook_the_World</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-reed_ten-days-that-shook-the-world</meta>
 		<dc:creator id="author">John Reed</dc:creator>
