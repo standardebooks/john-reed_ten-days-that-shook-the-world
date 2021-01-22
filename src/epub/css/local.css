@@ -42,8 +42,7 @@ figure img{
 	max-width: 100%;
 }
 
-figcaption > p + p,
-figure + p{
+figcaption > p + p{
 	text-indent: 0;
 }
 
