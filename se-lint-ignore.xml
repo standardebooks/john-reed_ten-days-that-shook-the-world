@@ -6,4 +6,10 @@
 			<reason>Matched text is not dialog.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-2.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>Matched text is an endnote and not a typo.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
