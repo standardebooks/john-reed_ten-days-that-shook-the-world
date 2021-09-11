@@ -25,7 +25,6 @@ b{
 figure.full-page{
 	break-after: page;
 	break-before: page;
-	break-inside: avoid;
 	margin: 0;
 	max-height: 100vh;
 	text-align: center;
