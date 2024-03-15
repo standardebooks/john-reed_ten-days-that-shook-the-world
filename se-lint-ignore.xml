@@ -8,7 +8,47 @@
 	</file>
 	<file path="chapter-2.xhtml">
 		<ignore>
+			<code>y-012</code>
+			<reason>Matched text is an endnote and not a typo.</reason>
+		</ignore>
+		<ignore>
 			<code>y-025</code>
+			<reason>Matched text is an endnote and not a typo.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-3.xhtml">
+		<ignore>
+			<code>y-012</code>
+			<reason>Matched text is an endnote and not a typo.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-4.xhtml">
+		<ignore>
+			<code>y-012</code>
+			<reason>Matched text is an endnote and not a typo.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-9.xhtml">
+		<ignore>
+			<code>y-012</code>
+			<reason>Matched text is an endnote and not a typo.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-10.xhtml">
+		<ignore>
+			<code>y-012</code>
+			<reason>Matched text is an endnote and not a typo.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-11.xhtml">
+		<ignore>
+			<code>y-012</code>
+			<reason>Matched text is an endnote and not a typo.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-12.xhtml">
+		<ignore>
+			<code>y-012</code>
 			<reason>Matched text is an endnote and not a typo.</reason>
 		</ignore>
 	</file>
