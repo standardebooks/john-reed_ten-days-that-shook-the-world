@@ -11,10 +11,6 @@
 			<code>y-012</code>
 			<reason>Matched text is an endnote and not a typo.</reason>
 		</ignore>
-		<ignore>
-			<code>y-025</code>
-			<reason>Matched text is an endnote and not a typo.</reason>
-		</ignore>
 	</file>
 	<file path="chapter-3.xhtml">
 		<ignore>
