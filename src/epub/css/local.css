@@ -209,3 +209,7 @@ blockquote[epub|type~="z3998:letter"] header + p{
 [epub|type~="z3998:verse"] p + p{
 	margin-top: 1em;
 }
+
+.telegram{
+	font-variant: all-small-caps;
+}
