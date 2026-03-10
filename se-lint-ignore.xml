@@ -2,41 +2,50 @@
 <se-lint-ignore>
 	<file path="chapter-1.xhtml">
 		<ignore code="t-005">
+			<line>17</line>
 			<reason>Matched text is not dialog.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-2.xhtml">
 		<ignore code="y-012">
+			<line>21</line>
+			<line>164</line>
 			<reason>Matched text is an endnote and not a typo.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-3.xhtml">
 		<ignore code="y-012">
+			<line>298</line>
 			<reason>Matched text is an endnote and not a typo.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-4.xhtml">
 		<ignore code="y-012">
+			<line>213</line>
 			<reason>Matched text is an endnote and not a typo.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-9.xhtml">
 		<ignore code="y-012">
+			<line>140</line>
 			<reason>Matched text is an endnote and not a typo.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-10.xhtml">
 		<ignore code="y-012">
+			<line>42</line>
 			<reason>Matched text is an endnote and not a typo.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-11.xhtml">
 		<ignore code="y-012">
+			<line>144</line>
 			<reason>Matched text is an endnote and not a typo.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-12.xhtml">
 		<ignore code="y-012">
+			<line>156</line>
 			<reason>Matched text is an endnote and not a typo.</reason>
 		</ignore>
 	</file>
