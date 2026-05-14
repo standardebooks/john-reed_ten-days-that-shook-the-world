@@ -89,7 +89,8 @@ table caption{
 	text-align: center;
 }
 
-td{
+td,
+th{
 	border-style: solid;
 	border-width: 1px;
 	font-variant-numeric: tabular-nums;
@@ -105,8 +106,9 @@ table.cost tbody td:first-child + td{
 	text-align: center;
 }
 
-thead td{
+thead th{
 	font-variant: small-caps;
+	font-weight: normal;
 	text-align: center;
 }
 
